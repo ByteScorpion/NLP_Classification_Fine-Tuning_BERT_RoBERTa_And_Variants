@@ -1,4 +1,9 @@
 # NLP Classification Fine-Tuning BERT,RoBERTa And Variants
+
+
+![](image/bert.jpg)
+
+
 ##  Opinion Spam Detection Datathon Challenge : 
 
 This repository contains the code and resources used for the Opinion Spam Detection Datathon Challenge. The task was to develop machine learning models to accurately classify reviews from Chicago hotels and restaurants as either spam or non-spam (genuine).
